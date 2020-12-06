@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ExpensesTracker</string>
+    <string name="expensestracker_title_hint">Enter expenses.</string>
+    <string name="expensestracker_title_label">Expenses</string>
+    <string name="expensestracker_details_label">Details</string>
+    <string name="expensestracker_paid_label">Paid</string>
+    <string name="expensestracker_save_label">Save</string>
+    <string name="date_picker_title">Date of expense:</string>
+</resources>
